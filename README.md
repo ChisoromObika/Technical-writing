@@ -1,9 +1,9 @@
 ## Hello hello, I write technical and non-technical easy-to-understand cybersecurity content.
 
 ## About me
-As a hubsp0t-certified content and inbound marketer, I have been trained with the techniques used to nurture customers/readers through all stages of their customer journey using customer-centric content.
+As a HubSpot-certified content and inbound marketer, I have been trained with the techniques used to nurture customers/readers through all stages of their customer journey using customer-centric content.
 
-As someone in the cybersecurtiy field, I have first-hand experience with how security technologies work and threats out there that could affect both individuals and companies.
+As someone in the cybersecurity field, I have first-hand experience with how security technologies work and threats out there that could affect both individuals and companies.
 
 Mix both of these and you have a writer who can deliver accurate interesting content.
 
@@ -12,7 +12,7 @@ Mix both of these and you have a writer who can deliver accurate interesting con
 2. Digital security for companies.
 3. Privacy-related topics.
 4. Open Source Intelligence topics.
-5. Dark web related topics
+5. Dark web-related topics
 6. General security and AI matters.  
 
 

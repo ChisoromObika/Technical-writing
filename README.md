@@ -1,6 +1,9 @@
 ## Hello hello, I write technical and non-technical easy-to-understand cybersecurity content.
 
 ## About me
+## Hello hello, I'm Chisorom 
+<a href="https://linkedin.com/in/chisoromobika/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 As a HubSpot-certified content and inbound marketer, I have been trained with the techniques used to nurture customers/readers through all stages of their customer journey using customer-centric content.
 
 As someone in the cybersecurity field, I have first-hand experience with how security technologies work and threats out there that could affect both individuals and companies.
